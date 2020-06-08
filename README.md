@@ -4,7 +4,9 @@
 #Clone package to ~/VirtualBoxDeployment
 
 #Usage: This lists Available Appliances
+
 python VBM.py KAFKA_04 192.168.1.9 
 
 #Specify the appliance
+
 python VBM.py KAFKA_04 192.168.1.9 ubuntu20
